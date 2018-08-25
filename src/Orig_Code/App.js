@@ -13,7 +13,7 @@ class App extends Component {
           <h1 className="App-title">Tic-Tac-Toe</h1>
         </header>
         <p>
-          <Board />
+          <Board one="O" two="" three="X" four="" five="O" six="" seven="X" eight="" nine="X"/>
         </p>
       </div>
     )
